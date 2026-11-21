@@ -29,6 +29,7 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\install.ps1
 
 ## Ollama и выбор модели
 
+winget install --id Ollama.Ollama --exact --source winget --accept-source-agreements --accept-package-agreements
 1. Установи Ollama по официальной ссылке и запусти из меню «Пуск». Она предоставляет локальный API `http://127.0.0.1:11434`.
 2. Открой новый PowerShell и скачай **одну** модель на выбор:
 
