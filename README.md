@@ -15,8 +15,7 @@
 В PowerShell:
 
 ```powershell
-# Подставь реальный URL опубликованного репозитория:
-git clone <URL_РЕПОЗИТОРИЯ> nova-windows
+git clone https://github.com/liptonn405/nova-windows.git
 cd nova-windows
 powershell -NoProfile -ExecutionPolicy Bypass -File .\install.ps1
 .\start.bat
