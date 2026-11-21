@@ -1,0 +1,21 @@
+# Windows x64 dependency versions resolved on 2026-11-21.
+# Refresh deliberately after running the Windows smoke checklist.
+anyio==4.16.0
+certifi==2026.11.20
+comtypes==1.5.0
+h11==0.16.0
+httpcore==1.0.9
+httpx==0.28.1
+idna==3.20
+psutil==7.2.2
+pycaw==20260927
+PySide6_Essentials==6.12.0
+pyvda==0.6.0
+pywin32==312
+shiboken6==6.12.0
+typing_extensions==4.16.0
+winrt-runtime==3.2.1
+winrt-Windows.Foundation.Collections==3.2.1
+winrt-Windows.Foundation==3.2.1
+winrt-Windows.Media.Control==3.2.1
+winrt-Windows.Media==3.2.1
